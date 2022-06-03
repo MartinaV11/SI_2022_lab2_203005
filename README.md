@@ -13,7 +13,8 @@ Control Flow Graph
 
 Тест случаи според критериумот Every statement
 
-![TABELA1](https://user-images.githubusercontent.com/103152926/171904701-d4f43d70-2408-43f6-b47c-ef7701f80a4c.png)
+![Screenshot_3](https://user-images.githubusercontent.com/103152926/171905154-7ff11b59-6b83-4fdf-ae06-cccfcffd2bfd.png)
+
 
 
 Тест случаи според критериумот Every path
