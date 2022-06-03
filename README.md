@@ -1,6 +1,8 @@
 Martina Velkovska 203005
 
 Control Flow Graph
+
+
 ![Dijagram2SI](https://user-images.githubusercontent.com/103152926/171904541-cba7c8b5-2e04-4196-abb4-e2a694f2f7ad.png)
 
 ![СиЛабСлика](https://user-images.githubusercontent.com/103152926/171904738-57ac1775-56cf-47df-b813-2880fa437b68.png)
